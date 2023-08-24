@@ -6,9 +6,7 @@ If you want to take a look at the project live, visit:
 [Netlify](https://adk-cms-dashboard.netlify.app/)
 ![Proje Logosu](126420672-transformed.jpeg)
 
-
-'''html
-<img src="126420672-transformed.jpeg" alt="Alternatif Metin" width="300" height="200">
+<img src="126420672-transformed.jpeg" alt="Alternatif Metin" width="300" height="300">
 
 | Başlık 1 | Başlık 2 |
 |----------|----------|
