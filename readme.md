@@ -4,7 +4,7 @@
 If you want to take a look at the project live, visit: 
 [Github Pages](https://ahmetdogukankonuk.github.io/dashboard/)
 [Netlify](https://adk-cms-dashboard.netlify.app/)
-![Proje Logosu](126420672-transformed.jpg)
+![Proje Logosu](126420672-transformed.jpeg)
 
 ## General info
 
