@@ -33,6 +33,6 @@ Project is created with;
 ## Cloning the Project
 
 ```bash
-git clone https://github.com/ahmetdogukankonuk/dashboard.git
+git clone https://github.com/cengizVenes/deneme.git
 ```
 
