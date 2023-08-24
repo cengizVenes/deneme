@@ -8,10 +8,9 @@ If you want to take a look at the project live, visit:
 
 <img src="126420672-transformed.jpeg" alt="Alternatif Metin" width="300" height="300">
 
-| Başlık 1 | Başlık 2 |
-|----------|----------|
-| İçerik 1 | İçerik 2 |
-
+| Ad | Soyad |
+|----|----------|
+| enes | Cengiz |
 
 > Bu bir alıntıdır.
 
