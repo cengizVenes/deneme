@@ -4,8 +4,7 @@
 If you want to take a look at the project live, visit: 
 [Github Pages](https://ahmetdogukankonuk.github.io/dashboard/)
 [Netlify](https://adk-cms-dashboard.netlify.app/)
-<br>
-<img src="126420672-transformed.jpeg" alt="Alternatif Metin" width="300" height="300">
+<img display="flex" src="126420672-transformed.jpeg" alt="Alternatif Metin" width="300" height="300">
 
 | Ad | Soyad |
 |----|----------|
